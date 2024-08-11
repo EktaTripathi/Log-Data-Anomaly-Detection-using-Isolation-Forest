@@ -1,0 +1,2 @@
+# Log-Data-Anomaly-Detection-using-Isolation-Forest
+This repository contains a Jupyter notebook for performing Exploratory Data Analysis (EDA) and anomaly detection on log data using the Isolation Forest algorithm. The log data, typically generated from microservices, is preprocessed, analyzed, and then used to detect anomalies, which could indicate potential issues or irregularities in the system.
